@@ -1,3 +1,3 @@
-# Fork of [ShadowFn´s Fortnite Launcher](https://github.com/ShadowFN/Fortnite-launcher)
+fork of aufgeladens banger code
 
-### launcher was used by [project bytefn](dsc.gg/bytefn)
+real credits to the eonV1 team
